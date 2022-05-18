@@ -7,7 +7,7 @@
     "vite",
     "template"
   ],
-  "author": "Den Shirokih <abcdenis95@gmail.com>",
+  "author": "Oleksandr Kropivnyi <kropivnyy@gmail.com>",
   "homepage": "https://DenShirokih.github.io/goit-js-hw-11-color-switch",
   "license": "ISC",
   "scripts": {
